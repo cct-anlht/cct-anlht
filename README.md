@@ -20,14 +20,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=cct-anlht&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=94A3B8" height="155"/>
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=cct-anlht&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8" height="155"/>
-</p>
-
-## 💡 Top Languages
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=cct-anlht&layout=donut&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=94A3B8"/>
 </p>
 
 ## 🔥 Streak
